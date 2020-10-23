@@ -1,0 +1,12 @@
+C:\Users\Czarina\source\repos\02_HandsOnActivity1\02_HandsOnActivity1\bin\Debug\02_HandsOnActivity1.exe.config
+C:\Users\Czarina\source\repos\02_HandsOnActivity1\02_HandsOnActivity1\bin\Debug\02_HandsOnActivity1.exe
+C:\Users\Czarina\source\repos\02_HandsOnActivity1\02_HandsOnActivity1\bin\Debug\02_HandsOnActivity1.pdb
+C:\Users\Czarina\source\repos\02_HandsOnActivity1\02_HandsOnActivity1\obj\Debug\02_HandsOnActivity1.csprojAssemblyReference.cache
+C:\Users\Czarina\source\repos\02_HandsOnActivity1\02_HandsOnActivity1\obj\Debug\_02_HandsOnActivity1.CashierWindowQueue.resources
+C:\Users\Czarina\source\repos\02_HandsOnActivity1\02_HandsOnActivity1\obj\Debug\_02_HandsOnActivity1.QueuingForm.resources
+C:\Users\Czarina\source\repos\02_HandsOnActivity1\02_HandsOnActivity1\obj\Debug\_02_HandsOnActivity1.Properties.Resources.resources
+C:\Users\Czarina\source\repos\02_HandsOnActivity1\02_HandsOnActivity1\obj\Debug\02_HandsOnActivity1.csproj.GenerateResource.cache
+C:\Users\Czarina\source\repos\02_HandsOnActivity1\02_HandsOnActivity1\obj\Debug\02_HandsOnActivity1.csproj.CoreCompileInputs.cache
+C:\Users\Czarina\source\repos\02_HandsOnActivity1\02_HandsOnActivity1\obj\Debug\02_HandsOnActivity1.exe
+C:\Users\Czarina\source\repos\02_HandsOnActivity1\02_HandsOnActivity1\obj\Debug\02_HandsOnActivity1.pdb
+C:\Users\Czarina\source\repos\02_HandsOnActivity1\02_HandsOnActivity1\obj\Debug\_02_HandsOnActivity1.CustomerView.resources
